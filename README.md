@@ -9,4 +9,4 @@ A search engine.
 #### 🛠️ Built with
 
 - React
-- Tailwind CSS
+- TailwindCSS
